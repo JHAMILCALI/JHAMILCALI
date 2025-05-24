@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Jhamil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante de Informatica UMSA;Apasionado por la tecnologia;Desarollo de Software y Redes;Desarollo de Contratos inteligentes y WEB3;Apasiondo por la Civer Seguridad "></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Informatica+UMSA;Apasionado+por+la+tecnologia;Desarollo+de+Software+y+Redes;Desarollo+de+Contratos+inteligentes+y+WEB3;Apasiondo+por+la+Civer+Seguridad"></a>
 </p>
 
 
@@ -31,7 +31,9 @@
 - 🧠 Aprendiendo constantemente nuevas tecnologías
 - 🔐 Interesado en la seguridad informática y la programación ética
 - 🔧 Apasionado por el desarrollo de apps móviles (Flutter) y aplicaciones web
-- 🌱 Explorando proyectos de innovación tecnológica con impacto social
+- 🌱 Explorando proyectos de innovación tecnológica
+- 🧩 Apasionado en creacion de contratos inteligentes en Block Chain
+- 🤖 Aprendiendo a inovar sitios web con Agentes IA
 
 <br><br>
 
