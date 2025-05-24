@@ -32,3 +32,16 @@
 - 🔐 Interesado en la seguridad informática y la programación ética
 - 🔧 Apasionado por el desarrollo de apps móviles (Flutter) y aplicaciones web
 - 🌱 Explorando proyectos de innovación tecnológica con impacto social
+
+<br><br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,react,angular,mysql,git,github,docker,figma,eclipse,vscode,bash,linux,ps&perline=12" />
+  </a>
+</p>
+<br>
